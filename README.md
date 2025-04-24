@@ -1,12 +1,12 @@
-# React + Vite
+# E-commerce App 🛒
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una aplicación web de comercio electrónico desarrollada con **React** y configurada con **Vite** para un desarrollo rápido y moderno. La app está diseñada para ofrecer una experiencia fluida de compra online, con componentes reutilizables, navegación optimizada y un entorno preparado para escalar.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologías utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ **React** – Librería principal para la construcción de interfaces.
+- ⚡ **Vite** – Empaquetador ultrarrápido con soporte HMR.
+- 💅 **CSS Modules / Bootstrap / Sass** – Estilos modernos y eficientes.
+- ✅ **ESLint** – Reglas para mantener el código limpio y consistente.
+- 🔐 **React Router** .
+- 💳 **Integración de pagos** 
